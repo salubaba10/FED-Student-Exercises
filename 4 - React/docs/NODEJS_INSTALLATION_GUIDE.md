@@ -4,7 +4,9 @@
 
 Open Terminal
 
-> :bulb: Remember: you can open Terminal from the Spotlight tool `⌘ + [Space]` by searching for Terminal or you can open Terminal from the Applications folder with `Terminal.app`, it may be in the `Utilities` folder
+> :bulb: Remember: you can open Terminal from the Spotlight tool
+> (`⌘` + `Space`)
+> search for Terminal or you can open Terminal from the Applications folder with `Terminal.app`, it may be in the `Utilities` folder
 
 Paste this command in Terminal and hit `[Enter]`.
 
