@@ -1,0 +1,26 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "Training material for react development.",
+  "main": "index.js",
+  "scripts": {
+    "init": "npm install && cd playground && npm install",
+    "playground": "cd playground && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/react-training.git"
+  },
+  "keywords": [
+    "react",
+    "learn react",
+    "coding bootcamp",
+    "react examples"
+  ],
+  "author": "Suraj Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/react-training/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/react-training#readme"
+}

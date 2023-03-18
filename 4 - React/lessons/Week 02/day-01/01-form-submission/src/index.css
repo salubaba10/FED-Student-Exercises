@@ -1,0 +1,53 @@
+:root {
+  --charcoal: #282c34;
+  --ocean-blue: #61dafb;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: var(--charcoal);
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.jumbotron {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--white);
+  margin-bottom: 20px;
+}
+
+.login {
+  padding: 2rem 1rem;
+  margin-bottom: 20px;
+  color: var(--white);
+  border: 1px solid var(--white);
+  border-radius: 4px;
+}
+
+.login-form {
+  padding: 32px;
+}
+
+.title {
+  text-align: center;
+  color: var(--ocean-blue);
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+
+.sub-title {
+  font-size: 24px;
+  font-weight: 200;
+  letter-spacing: 0.01em;
+}
