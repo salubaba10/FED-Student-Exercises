@@ -8,9 +8,11 @@ This repo is a template for your work over the next 16 weeks, here are the boile
 
 ## OK, What do? 🤓
 
-You should **FORK** this repo to your GitHub account **THEN** clone the repo to your computer, you can then complete the exercises, commit the changes and push your changes to your GitHub.
+You should **FORK** this repo to your GitHub account **THEN** clone the repo to your computer with the SSH link, you can then complete the exercises, commit the changes and push your changes to your GitHub.
 
-When you have forked and cloned the repo delete all the text from lines 19 and up then change the info below to match your own.
+When you have forked and cloned the repo delete all the text from lines 22 and up then change the info below to match your own.
+
+Also delete the .github folder as it's not needed.
 
 ## My `git` doesn't work! 😭
 
