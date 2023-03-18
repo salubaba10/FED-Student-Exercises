@@ -6,13 +6,13 @@ Create a function that checks if a word is a palindrome.
 
 >💡 Hint: A palindrome is a word that is spelled the same way forwards and backward.
 >
->💡 Hint: You should use `addEventListenter()` to listen for a word from a form...
+>💡 Hint: You should use `.addEventListenter()` to listen for a word from a form...
 
 ## Exercise 2
 
 Create a web app that takes an array of numbers and returns the sum of the even numbers in the array.
 
->💡 Hint: you could 
+>💡 Hint: you could use a `form` to get the input from the user...
 
 ## Exercise 3
 
