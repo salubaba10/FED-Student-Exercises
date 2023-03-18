@@ -14,7 +14,7 @@ Add a `hyperlink` to each movie that redirects to the movie's IMDB page.
 
 ## Exercise 3
 
-Create a form that allows users to submit their `name`, `email` `address`, and a `message`.
+Create a form that allows users to submit their `name`, `email` `address` and `message`.
 
 Ensure that the form has proper validation and displays an error message if any field is left empty using the `required` attribute.
 
