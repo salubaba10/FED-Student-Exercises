@@ -12,7 +12,7 @@ You should **FORK** this repo to your GitHub account **THEN** clone the repo to 
 
 When you have forked and cloned the repo delete all the text from lines 22 and up then change the info below to match your own.
 
-Also delete the .github folder as it's not needed.
+Also, delete the .github folder as it's not needed.
 
 ## My `git` doesn't work! 😭
 
