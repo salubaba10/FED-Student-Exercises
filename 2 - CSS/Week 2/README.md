@@ -4,10 +4,20 @@
 
 Create a modal window using CSS. Add a button to the page that triggers the modal.
 
+>💡 Heads up: The button doesn't have to be functional yet as we will make it functional with JS in the coming weeks
+
 ## Exercise 2
 
-Create a navigation bar using `CSS`. Use hover effects to highlight the current page and display a dropdown menu.
+Create a web app with a navbar using `CSS` to style it appropriately.
 
-## Exercise 3
+### Requirements
 
-Create a responsive layout using `CSS`. Ensure that the layout adjusts appropriately for different screen sizes.
+- The web app **must** have more than 1 page
+  - `index.html`
+  - `about.html`
+  - `contact.html`
+- Use a different class on the links to highlight the current page on the navbar
+- the navbar must be responsive to mobile and follow a mobile-first approach
+- you can use any sort of fake company name.
+
+> :bulb: Suggestions: You could use `Acme Inc`, `Roadrunner & Co` or [generate your own](https://www.google.com/search?q=company+name+generator "Google Search")

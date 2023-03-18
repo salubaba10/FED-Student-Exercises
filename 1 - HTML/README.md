@@ -45,47 +45,41 @@ Create a basic HTML template that includes a `header`, `nav`, `main` and `footer
 
 Use semantic tags to structure the page.
 
-## Resources for Students
+## Resources to help
 
-### Subject History
-
-- [History of the web online book](https://www.w3.org/People/Raggett/book4/ch02.html)
-
-### HTML Elements
-
-#### HTML
+### HTML
 
 - [W3 Schools](https://www.w3schools.com/html/)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-#### Head Tag `<head>...</head>`
+### Head Tag `<head>...</head>`
 
 - [W3 Schools](https://www.w3schools.com/html/html_head.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
 
-#### Body Tag `<body>...</body>`
+### Body Tag `<body>...</body>`
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_body.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
 
-#### Heading `<h1>...</h1>` - `<h6>...</h6>`
+### Heading `<h1>...</h1>` - `<h6>...</h6>`
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_hn.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
-#### Paragraph `<p>...</p>`
+### Paragraph `<p>...</p>`
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_p.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 
-#### Anchor `<a href="https://google.com" target="_blank">Google</a>`
+### Anchor `<a href="https://google.com" target="_blank">Google</a>`
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_a.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
-#### Embedded Images `<img src="..." alt="..." />`
+### Embedded Images `<img src="..." alt="..." />`
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_img.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 
-#### Tables
+### Tables `<table>`
