@@ -10,7 +10,11 @@ This repo is a template for your work over the next 16 weeks, here are the boile
 
 You should **FORK** this repo to your GitHub account **THEN** clone the repo to your computer, you can then complete the exercises, commit the changes and push your changes to your GitHub.
 
-When you have forked and cloned the repo delete all the text from lines 15 and up then change the info below to match your own.
+When you have forked and cloned the repo delete all the text from lines 19 and up then change the info below to match your own.
+
+## My `git` doesn't work! 😭
+
+It's ok, don't panic, follow the [git guide](https://github.com/Purple-Beard/FED-Student-Exercises/blob/main/GIT_GUIDE.md) or ask for help from your trainer.
 
 ---
 
