@@ -1,10 +1,10 @@
 # Week 6 JS Exercises
 
-## Exercise 9
+## Exercise 1
 
 Create a program that takes a sentence and returns the longest word in the sentence.
 
-## Exercise 10
+## Exercise 2
 
 Create a program that generates a random quote. The program should display the quote and the name of the author.
 

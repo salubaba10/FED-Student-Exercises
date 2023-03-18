@@ -1,6 +1,6 @@
 # HTML Exercises
 
-For each E
+For each exercise create an HTML file called `exerciseX.html` in this folder
 
 ## Exercise 1
 
