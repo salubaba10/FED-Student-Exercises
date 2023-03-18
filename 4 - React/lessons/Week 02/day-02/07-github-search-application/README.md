@@ -2,14 +2,14 @@
 
 ## User Story
 
-As a user I should be able to search for information using the GitHub API.
+>As a user, I should be able to search for information using the GitHub API.
 
 ## Acceptance Criteria
 
 - The user is presented with a form that has 2 buttons
   - `Search by organisation`
   - `Search by username`
-- User is present with a text input to enter an `organisation name` or a `username` depending on which button they have clicked on
+- The User is presented with a text input to enter an `organisation name` or a `username` depending on which button they have clicked on
 - When the user clicks on the `Submit` button the user is presented with a list of repositories
 - When the user submits an empty form the user is presented with an error message `Please enter a valid organisation` if the user has selected `Search by organisation`
 - When the user submits an empty form the user is presented with an error message `Please enter a valid username` if the user has selected `Search by username`
