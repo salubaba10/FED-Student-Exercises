@@ -4,7 +4,9 @@
 
 ### Exercise 1
 
-Create a CSS file and link it to an HTML file. Change the font size, color, and style of the text on the page.
+Create a `CSS` file and link it to an `HTML` file.
+
+Change the font size, color, and style of the text on the page.
 
 ### Exercise 2
 

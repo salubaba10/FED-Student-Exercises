@@ -1,4 +1,4 @@
-# All JS Exercises
+# JS Exercises
 
 ## Week 1
 
