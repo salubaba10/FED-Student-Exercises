@@ -14,7 +14,7 @@ When you have forked and cloned the repo delete all the text from lines 15 and u
 
 ---
 
-# 🚀 Frontend development with Purple Beard
+# 🚀 Frontend Development with Purple Beard
 
 ## Info
 
