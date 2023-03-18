@@ -171,4 +171,5 @@ Run the command again and you should see a Welcome message with your GitHub user
 $ ssh -T git@github.com
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+
 > 🎊 You are now setup to use github, I'd keep this guide handy just in-case.
