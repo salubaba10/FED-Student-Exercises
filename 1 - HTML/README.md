@@ -39,12 +39,6 @@ Create a table that displays the following data:
 | Sarah | 30  | Designer   |
 | Jack  | 35  | Manager    |
 
-### Exercise 5
-
-Create a basic HTML template that includes a `header`, `nav`, `main` and `footer`.
-
-Use semantic tags to structure the page.
-
 ## Resources to help
 
 ### HTML
@@ -81,5 +75,3 @@ Use semantic tags to structure the page.
 
 - [W3 Schools](https://www.w3schools.com/tags/tag_img.asp)
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-
-### Tables `<table>`
