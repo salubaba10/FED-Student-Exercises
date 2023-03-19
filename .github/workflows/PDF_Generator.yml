@@ -12,7 +12,7 @@ jobs:
 
 
       - name: Convert MD to PDF
-        uses: purplebearddan/ghAction-md2pdf@v1.1.5b
+        uses: purplebearddan/ghAction-md2pdf@v1.2.2
       
       - name: Publish PDF to Sharepoint
         uses: purplebearddan/action-sharepoint-publish@v1.1.2
