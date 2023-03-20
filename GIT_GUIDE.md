@@ -52,7 +52,7 @@ Enter the command shown below which will begin the process to generate an SSH ke
 
 ```sh
 # Change this to use your GitHub email address, keep the quotes!
-ssh-keygen -t rsa -b 2048 -C "here@there.co.uk" -f ~/.ssh/id_rsa_GitHub
+ssh-keygen -t rsa -b 2048 -C "here@there.co.uk" -f ~/.ssh/id_rsa_github
 ```
 
 When presented with `Enter passphrase (empty for no passphrase):` just hit enter which is an empty passphrase
@@ -61,7 +61,7 @@ When presented with `Enter same passphrase again:` just hit enter again
 
 You will then see some text displayed on your terminal which indicates that your SSH key has been successfully generated.
 
-You can check your new key in the `.ssh` folder by running this command which will display files like `id_rsa` and `id_rsa_GitHub.pub`
+You can check your new key in the `.ssh` folder by running this command which will display files like `id_rsa` and `id_rsa_github.pub`
 
 ```sh
 ls -al ~/.ssh
@@ -90,10 +90,10 @@ code ~/.ssh/config
 Add these settings to your file. If the file has some data then add this to the end of the file
 
 ```text
-Host GitHub.com
-    HostName GitHub.com
+Host github.com
+    HostName github.com
     User git
-    IdentityFile ~/.ssh/id_rsa_GitHub
+    IdentityFile ~/.ssh/id_rsa_github
 ```
 
 ### Step 4 - Add an SSH key to your GitHub account
@@ -103,7 +103,7 @@ Host GitHub.com
 Open `Terminal` and run this command to copy your `public key`
 
 ```sh
-pbcopy < ~/.ssh/id_rsa_GitHub.pub
+pbcopy < ~/.ssh/id_rsa_github.pub
 ```
 
 #### On Windows
