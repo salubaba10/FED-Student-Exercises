@@ -24,7 +24,7 @@ Create a function that generates a random number between 1 and 10.
 >if ( number too high ){
 >    // do this
 >}
->elseif ( number too low ){
+>else if ( number too low ){
 >    // do this instead
 >}
 >````
